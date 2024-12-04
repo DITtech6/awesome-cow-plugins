@@ -53,6 +53,8 @@
 - [Lingyuzhou111/SearchMusic](https://github.com/Lingyuzhou111/SearchMusic): 多平台音乐搜索播放，支持酷狗音乐、网易音乐和神秘音乐三大平台。
 - [Lingyuzhou111/DouyinDuanju](https://github.com/Lingyuzhou111/DouyinDuanju): 搜索抖音短剧并获取播放链接。
 - [5201213/media_parser](https://github.com/5201213/media_parser): 多平台视频及图集解析。
+- [AnCool-OvO/HighSpeedTicket](https://github.com/AnCool-OvO/HighSpeedTicket): 高铁（火车）票查询插件,可查询直达跟中转两种方式,查询后可发送+问题进行进一步的筛选。
+- [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句KFC文案，可以配合timetask插件实现每个星期四自动发送疯狂星期四文案。
 
 ## 常见问题
 
