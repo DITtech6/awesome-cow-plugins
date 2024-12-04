@@ -26,6 +26,7 @@
 - [dfldylan/GroupInvitation](https://github.com/dfldylan/GroupInvitation)：特定关键字拉群
 - [Tishon1532/bridge_room](https://github.com/Tishon1532/bridge_room): 多微信群桥接互通
 - [sineom-1/revocation](https://github.com/sineom-1/revocation): 私聊和群聊消息的防撤回
+- [dividduang/blackroom](https://github.com/dividduang/blackroom): 小黑屋
 
 ## 资讯工具
 
