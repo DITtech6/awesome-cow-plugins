@@ -27,6 +27,7 @@
 - [Tishon1532/bridge_room](https://github.com/Tishon1532/bridge_room): 多微信群桥接互通
 - [sineom-1/revocation](https://github.com/sineom-1/revocation): 私聊和群聊消息的防撤回
 - [dividduang/blackroom](https://github.com/dividduang/blackroom): 小黑屋
+- [Sakura7301/DarkRoom](https://github.com/Sakura7301/DarkRoom): 小黑屋
 
 ## 资讯工具
 
@@ -54,7 +55,8 @@
 - [Lingyuzhou111/DouyinDuanju](https://github.com/Lingyuzhou111/DouyinDuanju): 搜索抖音短剧并获取播放链接。
 - [5201213/media_parser](https://github.com/5201213/media_parser): 多平台视频及图集解析。
 - [AnCool-OvO/HighSpeedTicket](https://github.com/AnCool-OvO/HighSpeedTicket): 高铁（火车）票查询插件,可查询直达跟中转两种方式,查询后可发送+问题进行进一步的筛选。
-- [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句KFC文案，可以配合timetask插件实现每个星期四自动发送疯狂星期四文案。
+- [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句 KFC 文案，可以配合 timetask 插件实现每个星期四自动发送疯狂星期四文案。
+- [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
 
 ## 常见问题
 
@@ -62,6 +64,6 @@
 
 ## 其他
 
-- 任何想法、建议、需求、咨询等，欢迎加微信 fred2025 交流（备注"cow插件"）。
+- 任何想法、建议、需求、咨询等，欢迎加微信 fred2025 交流（备注: "cow 插件"）。
 
 ![微信二维码](images/qr.jpg)
