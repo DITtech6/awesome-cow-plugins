@@ -18,14 +18,17 @@
 ## 效率工具
 
 - [haikerapples/timetask](https://github.com/haikerapples/timetask): 自定义定时任务，功能强大。
+- [ayasa520/TaskScheduler](https://github.com/ayasa520/TaskScheduler)：基于 APScheduler 库，提供了灵活的任务管理和调度功能。
 - [Isaac20231231/send_msg](https://github.com/Isaac20231231/send_msg): 实现手动执行 api(基于 flask 的本地 http api)或微信命令发送消息通知到微信功能。
 
 ## 群管理
 
 - [lanvent/plugin_summary](https://github.com/lanvent/plugin_summary): 群聊天记录总结
+- [sineom-1/plugin_summary](https://github.com/sineom-1/plugin_summary)：群聊天记录总结
 - [dfldylan/GroupInvitation](https://github.com/dfldylan/GroupInvitation)：特定关键字拉群
 - [Tishon1532/bridge_room](https://github.com/Tishon1532/bridge_room): 多微信群桥接互通
 - [sineom-1/revocation](https://github.com/sineom-1/revocation): 私聊和群聊消息的防撤回
+- [xiaoqidaov2/MemberMonitor](https://github.com/xiaoqidaov2/MemberMonitor)：群成员监控插件，支持退群提醒
 - [dividduang/blackroom](https://github.com/dividduang/blackroom): 小黑屋
 - [Sakura7301/DarkRoom](https://github.com/Sakura7301/DarkRoom): 小黑屋
 
@@ -49,6 +52,10 @@
 - [lanvent/plugin_sdwebui](https://github.com/lanvent/plugin_sdwebui): 基于 stable diffusion webui 的 api 画图。
 - [mouxangithub/midjourney-proxy-on-wechat](https://github.com/mouxangithub/midjourney-proxy-on-wechat): 基于 MJ 画图。
 - [LargeCupPanda/Cow-GPTs](https://github.com/LargeCupPanda/Cow-GPTs): 调用 GPTs。
+- [cheungchazz/cow_plugin_kimichat](https://github.com/cheungchazz/cow_plugin_kimichat)：基于 kimi 及 Azure 识图 api 的对话、文件、图片、视频解析（基于 whisper 做音频转录）。
+  - [single228758/cow-](https://github.com/single228758/cow-)：大规模重构，kimi 协议更新，基于 kimi 识图 API 做图片和视频总结，基于硅基流动 API 做音频转录。
+  - [akun-y/plugin_iKnowKimichat](https://github.com/akun-y/plugin_iKnowKimichat)：新增 kimi 的付费 api key 支持，paddle ocr 做识图，对话管理及文件 cache。
+- [KimYx0207/CogView2Cow](https://github.com/KimYx0207/CogView2Cow)：基于智谱 API 的文生图、文生视频。
 - suno
 
 ## 娱乐
@@ -60,6 +67,7 @@
 - [Lingyuzhou111/Img2Url](https://github.com/Lingyuzhou111/Img2Url)：上传图片到[图床](https://imgbb.com/)，以便后续通过 url 引用。
 - [5201213/media_parser](https://github.com/5201213/media_parser): 多平台视频及图集解析。
 - [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句 KFC 文案，可以配合 timetask 插件实现每个星期四自动发送疯狂星期四文案。
+- [qiupo/apitools](https://github.com/qiupo/apitools)：点歌及歌曲推荐。
 - [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
 
 ## 常见问题
@@ -69,6 +77,6 @@
 ## 其他
 
 - 任何想法、建议、需求、咨询等，欢迎加微信 fred2025 交流
-- "CoW 插件交流群": 新插件及内测 demo 的第一手信息，与插件开发者交流，机器人试玩，欢迎备注"cow 插件"入群。
+- "CoW 插件交流群": 新插件及内测 demo 的第一手信息，与插件开发者交流，插件试玩，欢迎备注"cow 插件"入群。
 
 ![微信二维码](images/qr.jpg)
