@@ -36,11 +36,15 @@
 - [6vision/Apilot](https://github.com/6vision/Apilot)：基于[ALAPI](https://admin.alapi.cn/account/center)及[韩小韩 API](https://api.vvhan.com/)接口，包含早报、摸鱼（视频）日历、明星八卦、查快递、星座运势及多平台热榜。
 - [Lingyuzhou111/AIReport](https://github.com/Lingyuzhou111/AIReport): AI 日报，基于[天聚数行](https://www.tianapi.com)的 API 接口，包括图片版和文字版。
 - [fatwang2/seek1assit](https://github.com/fatwang2/seek1assit): 基于[medisearch](https://search2ai.online/medisearch)(医疗大模型)的医疗咨询。
+- [AnCool-OvO/HighSpeedTicket](https://github.com/AnCool-OvO/HighSpeedTicket): 高铁（火车）票查询插件,可查询直达跟中转两种方式,查询后可发送+问题进行进一步的筛选。
 - [fred2045/plugin_rss](https://github.com/fred2045/plugin_rss)：通过 RSS(RSSHub)订阅各平台大 V 的最新消息，推送到微信群或微信号。
 
 ## AIGC
 
 - [Lingyuzhou111/FluxUltra](https://github.com/Lingyuzhou111/FluxUltra): 基于[glif.app](https://glif.app/glifs)的 API 实现[FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/)模型的文生图，支持中英文提示词、多种图片比例和生成模式。
+- [Lingyuzhou111/GLM_vision](https://github.com/Lingyuzhou111/GLM_vision)：基于智谱 GLM-4V 视觉模型，支持通过 URL 链接分析图片和视频内容。
+- [Lingyuzhou111/Hunyuan_video](https://github.com/Lingyuzhou111/Hunyuan_video)：基于 SiliconFlow 平台的混元视频生成功能，支持通过文本描述生成视频。
+- [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)：基于 SiliconFlow 的文生图、图生图，支持多模型、自定义尺寸和比例。
 - [lanvent/plugin_replicate](https://github.com/lanvent/plugin_replicate): 基于[Replicate](https://replicate.com/)的 API 画图。
 - [lanvent/plugin_sdwebui](https://github.com/lanvent/plugin_sdwebui): 基于 stable diffusion webui 的 api 画图。
 - [mouxangithub/midjourney-proxy-on-wechat](https://github.com/mouxangithub/midjourney-proxy-on-wechat): 基于 MJ 画图。
@@ -55,7 +59,6 @@
 - [Lingyuzhou111/DouyinDuanju](https://github.com/Lingyuzhou111/DouyinDuanju): 搜索抖音短剧并获取播放链接。
 - [Lingyuzhou111/Img2Url](https://github.com/Lingyuzhou111/Img2Url)：上传图片到[图床](https://imgbb.com/)，以便后续通过 url 引用。
 - [5201213/media_parser](https://github.com/5201213/media_parser): 多平台视频及图集解析。
-- [AnCool-OvO/HighSpeedTicket](https://github.com/AnCool-OvO/HighSpeedTicket): 高铁（火车）票查询插件,可查询直达跟中转两种方式,查询后可发送+问题进行进一步的筛选。
 - [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句 KFC 文案，可以配合 timetask 插件实现每个星期四自动发送疯狂星期四文案。
 - [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
 
@@ -65,6 +68,7 @@
 
 ## 其他
 
-- 任何想法、建议、需求、咨询等，欢迎加微信 fred2025 交流（备注: "cow 插件"）。
+- 任何想法、建议、需求、咨询等，欢迎加微信 fred2025 交流
+- "CoW 插件交流群": 新插件及内测 demo 的第一手信息，与插件开发者交流，机器人试玩，欢迎备注"cow 插件"入群。
 
 ![微信二维码](images/qr.jpg)
