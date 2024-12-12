@@ -19,6 +19,7 @@
 
 - [haikerapples/timetask](https://github.com/haikerapples/timetask): 自定义定时任务，功能强大。
 - [ayasa520/TaskScheduler](https://github.com/ayasa520/TaskScheduler)：基于 APScheduler 库，提供了灵活的任务管理和调度功能。
+- [Sakura7301/SimpleTimeTask](https://github.com/Sakura7301/SimpleTimeTask)：任务定时器。
 - [Isaac20231231/send_msg](https://github.com/Isaac20231231/send_msg): 实现手动执行 api(基于 flask 的本地 http api)或微信命令发送消息通知到微信功能。
 
 ## 群管理
@@ -69,6 +70,7 @@
 - [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句 KFC 文案，可以配合 timetask 插件实现每个星期四自动发送疯狂星期四文案。
 - [qiupo/apitools](https://github.com/qiupo/apitools)：点歌及歌曲推荐。
 - [xiaoqidaov2/game](https://github.com/xiaoqidaov2/game)：游戏娱乐插件，支持钓鱼，大富翁模式，经济系统，等级系统。
+- [Sakura7301/sakuraTools](https://github.com/Sakura7301/sakuraTools)：多功能聚合，包括获取舔狗日记、笑话、摸鱼日历、二次元图片、小姐姐视频、星座运势、虫部落热门帖子、疯狂星期四文案、以及赛博算卦等。
 - [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
 
 ## 常见问题
