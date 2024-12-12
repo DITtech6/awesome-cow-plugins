@@ -68,6 +68,7 @@
 - [5201213/media_parser](https://github.com/5201213/media_parser): 多平台视频及图集解析。
 - [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句 KFC 文案，可以配合 timetask 插件实现每个星期四自动发送疯狂星期四文案。
 - [qiupo/apitools](https://github.com/qiupo/apitools)：点歌及歌曲推荐。
+- [xiaoqidaov2/game](https://github.com/xiaoqidaov2/game)：游戏娱乐插件，支持钓鱼，大富翁模式，经济系统，等级系统。
 - [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
 
 ## 常见问题
