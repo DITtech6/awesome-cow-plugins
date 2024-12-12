@@ -80,3 +80,7 @@
 - "CoW 插件交流群": 新插件及内测 demo 的第一手信息，与插件开发者交流，插件试玩，欢迎备注"cow 插件"入群。
 
 ![微信二维码](images/qr.jpg)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fred2045/awesome-cow-plugins&type=Date)](https://star-history.com/#fred2045/awesome-cow-plugins&Date)
