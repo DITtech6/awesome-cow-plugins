@@ -69,6 +69,7 @@
 - [5201213/media_parser](https://github.com/5201213/media_parser): 多平台视频及图集解析。
 - [AnCool-OvO/KFCwenan](https://github.com/AnCool-OvO/KFCwenan): 随机发送一句 KFC 文案，可以配合 timetask 插件实现每个星期四自动发送疯狂星期四文案。
 - [qiupo/apitools](https://github.com/qiupo/apitools)：点歌及歌曲推荐。
+- [nautilis/plugin_music](https://github.com/nautilis/plugin_music)：基于网易云音乐的点歌，支持 gpt 推荐音乐。
 - [xiaoqidaov2/game](https://github.com/xiaoqidaov2/game)：游戏娱乐插件，支持钓鱼，大富翁模式，经济系统，等级系统。
 - [Sakura7301/sakuraTools](https://github.com/Sakura7301/sakuraTools)：多功能聚合，包括获取舔狗日记、笑话、摸鱼日历、二次元图片、小姐姐视频、星座运势、虫部落热门帖子、疯狂星期四文案、以及赛博算卦等。
 - [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
