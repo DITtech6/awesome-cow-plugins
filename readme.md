@@ -54,7 +54,7 @@
 - [mouxangithub/midjourney-proxy-on-wechat](https://github.com/mouxangithub/midjourney-proxy-on-wechat): 基于 MJ 画图。
 - [LargeCupPanda/Cow-GPTs](https://github.com/LargeCupPanda/Cow-GPTs): 调用 GPTs。
 - [cheungchazz/cow_plugin_kimichat](https://github.com/cheungchazz/cow_plugin_kimichat)：基于 kimi 及 Azure 识图 api 的对话、文件、图片、视频解析（基于 whisper 做音频转录）。
-  - [single228758/cow-](https://github.com/single228758/cow-)：大规模重构，kimi 协议更新，基于 kimi 识图 API 做图片和视频总结，基于硅基流动 API 做音频转录。
+  - [single228758/cow_plugin_kimichat](https://github.com/single228758/cow_plugin_kimichat)：大规模重构，kimi 协议更新，基于 kimi 识图 API 做图片和视频总结，基于硅基流动 API 做音频转录。
   - [akun-y/plugin_iKnowKimichat](https://github.com/akun-y/plugin_iKnowKimichat)：新增 kimi 的付费 api key 支持，paddle ocr 做识图，对话管理及文件 cache。
 - [KimYx0207/CogView2Cow](https://github.com/KimYx0207/CogView2Cow)：基于智谱 API 的文生图、文生视频。
 - suno
