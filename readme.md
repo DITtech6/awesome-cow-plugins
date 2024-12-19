@@ -57,6 +57,8 @@
   - [single228758/cow_plugin_kimichat](https://github.com/single228758/cow_plugin_kimichat)：大规模重构，kimi 协议更新，基于 kimi 识图 API 做图片和视频总结，基于硅基流动 API 做音频转录。
   - [akun-y/plugin_iKnowKimichat](https://github.com/akun-y/plugin_iKnowKimichat)：新增 kimi 的付费 api key 支持，paddle ocr 做识图，对话管理及文件 cache。
 - [KimYx0207/CogView2Cow](https://github.com/KimYx0207/CogView2Cow)：基于智谱 API 的文生图、文生视频。
+- [wangxyd/nicecoze](https://github.com/wangxyd/nicecoze)：优化 coze 返回结果，主要是图片链接转图片。
+- [binllm18/cozewrapper](https://github.com/binllm18/cozewrapper)：基于 coze 的多模态封装插件，支持图片的重绘、微调等。
 - suno
 
 ## 娱乐
