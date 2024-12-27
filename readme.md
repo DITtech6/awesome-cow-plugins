@@ -32,6 +32,7 @@
 - [xiaoqidaov2/MemberMonitor](https://github.com/xiaoqidaov2/MemberMonitor)：群成员监控插件，支持退群提醒
 - [dividduang/blackroom](https://github.com/dividduang/blackroom): 小黑屋
 - [Sakura7301/DarkRoom](https://github.com/Sakura7301/DarkRoom): 小黑屋
+- [Penghuige/VerifyCode](https://github.com/Penghuige/VerifyCode)：通过邀请码验证的功能，限制用户使用。
 
 ## 资讯工具
 
@@ -52,10 +53,11 @@
 - [lanvent/plugin_replicate](https://github.com/lanvent/plugin_replicate): 基于[Replicate](https://replicate.com/)的 API 画图。
 - [lanvent/plugin_sdwebui](https://github.com/lanvent/plugin_sdwebui): 基于 stable diffusion webui 的 api 画图。
 - [mouxangithub/midjourney-proxy-on-wechat](https://github.com/mouxangithub/midjourney-proxy-on-wechat): 基于 MJ 画图。
-- [LargeCupPanda/Cow-GPTs](https://github.com/LargeCupPanda/Cow-GPTs): 调用 GPTs。
+- [cheungchazz/midjourney_turbo](https://github.com/cheungchazz/midjourney_turbo)：基于 MJ 画图。
 - [cheungchazz/cow_plugin_kimichat](https://github.com/cheungchazz/cow_plugin_kimichat)：基于 kimi 及 Azure 识图 api 的对话、文件、图片、视频解析（基于 whisper 做音频转录）。
   - [single228758/cow_plugin_kimichat](https://github.com/single228758/cow_plugin_kimichat)：大规模重构，kimi 协议更新，基于 kimi 识图 API 做图片和视频总结，基于硅基流动 API 做音频转录。
   - [akun-y/plugin_iKnowKimichat](https://github.com/akun-y/plugin_iKnowKimichat)：新增 kimi 的付费 api key 支持，paddle ocr 做识图，对话管理及文件 cache。
+- [LargeCupPanda/Cow-GPTs](https://github.com/LargeCupPanda/Cow-GPTs): 调用 GPTs。
 - [KimYx0207/CogView2Cow](https://github.com/KimYx0207/CogView2Cow)：基于智谱 API 的文生图、文生视频。
 - [wangxyd/nicecoze](https://github.com/wangxyd/nicecoze)：优化 coze 返回结果，主要是图片链接转图片。
 - [binllm18/cozewrapper](https://github.com/binllm18/cozewrapper)：基于 coze 的多模态封装插件，支持图片的重绘、微调等。
@@ -74,6 +76,7 @@
 - [nautilis/plugin_music](https://github.com/nautilis/plugin_music)：基于网易云音乐的点歌，支持 gpt 推荐音乐。
 - [xiaoqidaov2/game](https://github.com/xiaoqidaov2/game)：游戏娱乐插件，支持钓鱼，大富翁模式，经济系统，等级系统。
 - [Sakura7301/sakuraTools](https://github.com/Sakura7301/sakuraTools)：多功能聚合，包括获取舔狗日记、笑话、摸鱼日历、二次元图片、小姐姐视频、星座运势、虫部落热门帖子、疯狂星期四文案、以及赛博算卦等。
+- [Allenhufanfan/metaso](https://github.com/Allenhufanfan/metaso)：夸克资源搜索。
 - [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
 
 ## 常见问题
