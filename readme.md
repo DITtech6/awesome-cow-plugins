@@ -32,6 +32,7 @@
 - [xiaoqidaov2/MemberMonitor](https://github.com/xiaoqidaov2/MemberMonitor)：群成员监控插件，支持退群提醒
 - [dividduang/blackroom](https://github.com/dividduang/blackroom): 小黑屋
 - [Sakura7301/DarkRoom](https://github.com/Sakura7301/DarkRoom): 小黑屋
+- [theone-2more/plugin_apimap](https://github.com/theone-2more/plugin_apimap)：配置不同群使用不同的 openai_api_key。
 - [Penghuige/VerifyCode](https://github.com/Penghuige/VerifyCode)：通过邀请码验证的功能，限制用户使用。
 
 ## 资讯工具
