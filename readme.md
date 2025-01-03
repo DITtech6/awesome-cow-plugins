@@ -41,7 +41,7 @@
 - [hanfangyuan4396/jina_sum](https://github.com/hanfangyuan4396/jina_sum): 基于 jina reader 和 gpt 总结网页内容，支持公众号、小红书、知乎等分享卡片链接。
 - [6vision/Apilot](https://github.com/6vision/Apilot)：基于[ALAPI](https://admin.alapi.cn/account/center)及[韩小韩 API](https://api.vvhan.com/)接口，包含早报、摸鱼（视频）日历、明星八卦、查快递、星座运势及多平台热榜。
 - [Lingyuzhou111/AIReport](https://github.com/Lingyuzhou111/AIReport): AI 日报，基于[天聚数行](https://www.tianapi.com)的 API 接口，包括图片版和文字版。
-  - [zhangxinyu521/DongmanReport](https://github.com/zhangxinyu521/DongmanReport)：获取动漫相关资讯，支持文字版和图片版。
+  - [zhangxinyu521/NewsReport](https://github.com/zhangxinyu521/NewsReport)：新闻资讯获取，支持 AI、动漫、电竞资讯，包括文字版和图片版。
 - [fatwang2/seek1assit](https://github.com/fatwang2/seek1assit): 基于[medisearch](https://search2ai.online/medisearch)(医疗大模型)的医疗咨询。
 - [AnCool-OvO/HighSpeedTicket](https://github.com/AnCool-OvO/HighSpeedTicket): 高铁（火车）票查询插件,可查询直达跟中转两种方式,查询后可发送+问题进行进一步的筛选。
 - [fred2045/plugin_rss](https://github.com/fred2045/plugin_rss)：通过 RSS(RSSHub)订阅各平台大 V 的最新消息，推送到微信群或微信号。
