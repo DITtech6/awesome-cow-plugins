@@ -18,6 +18,7 @@
 ## 效率工具
 
 - [haikerapples/timetask](https://github.com/haikerapples/timetask): 自定义定时任务，功能强大。
+  - [cm04918/difytimetask](https://github.com/cm04918/difytimetask)：支持 DoW 的 gewe 通道。
 - [ayasa520/TaskScheduler](https://github.com/ayasa520/TaskScheduler)：基于 APScheduler 库，提供了灵活的任务管理和调度功能。
 - [Sakura7301/SimpleTimeTask](https://github.com/Sakura7301/SimpleTimeTask)：任务定时器。
 - [Isaac20231231/send_msg](https://github.com/Isaac20231231/send_msg): 实现手动执行 api(基于 flask 的本地 http api)或微信命令发送消息通知到微信功能。
@@ -34,6 +35,7 @@
 - [Sakura7301/DarkRoom](https://github.com/Sakura7301/DarkRoom): 小黑屋
 - [theone-2more/plugin_apimap](https://github.com/theone-2more/plugin_apimap)：配置不同群使用不同的 openai_api_key。
 - [Penghuige/VerifyCode](https://github.com/Penghuige/VerifyCode)：通过邀请码验证的功能，限制用户使用。
+- [cm04918/KeywordMonitor](https://github.com/cm04918/KeywordMonitor)：群聊违规内容监控，包括关键词、URL 链接和文件内容
 
 ## 资讯工具
 
@@ -44,6 +46,8 @@
   - [zhangxinyu521/NewsReport](https://github.com/zhangxinyu521/NewsReport)：新闻资讯获取，支持 AI、动漫、电竞资讯，包括文字版和图片版。
 - [fatwang2/seek1assit](https://github.com/fatwang2/seek1assit): 基于[medisearch](https://search2ai.online/medisearch)(医疗大模型)的医疗咨询。
 - [AnCool-OvO/HighSpeedTicket](https://github.com/AnCool-OvO/HighSpeedTicket): 高铁（火车）票查询插件,可查询直达跟中转两种方式,查询后可发送+问题进行进一步的筛选。
+- [sllt-wei/TicketQuery](https://github.com/sllt-wei/TicketQuery)：高铁（火车）票查询,可查询直达跟中转两种方式。
+- [sllt-wei/DataRetrieval](https://github.com/sllt-wei/DataRetrieval)：实时查询全网电影票房以及股票数据。
 - [fred2045/plugin_rss](https://github.com/fred2045/plugin_rss)：通过 RSS(RSSHub)订阅各平台大 V 的最新消息，推送到微信群或微信号。
 
 ## AIGC
@@ -51,6 +55,7 @@
 - [Lingyuzhou111/FluxUltra](https://github.com/Lingyuzhou111/FluxUltra): 基于[glif.app](https://glif.app/glifs)的 API 实现[FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/)模型的文生图，支持中英文提示词、多种图片比例和生成模式。
 - [Lingyuzhou111/GLM_vision](https://github.com/Lingyuzhou111/GLM_vision)：基于智谱 GLM-4V 视觉模型，支持通过 URL 链接分析图片和视频内容。
 - [Lingyuzhou111/Hunyuan_video](https://github.com/Lingyuzhou111/Hunyuan_video)：基于 SiliconFlow 平台的混元视频生成功能，支持通过文本描述生成视频。
+- [Lingyuzhou111/Glif_Nezha](https://github.com/Lingyuzhou111/Glif_Nezha)：特定角色 AI 绘图（魔丸哪吒、灵珠哪吒、成年哪吒、太乙真人、申公豹、敖丙、敖光、敖闰）。
 - [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)：基于 SiliconFlow 的文生图、图生图，支持多模型、自定义尺寸和比例。
 - [lanvent/plugin_replicate](https://github.com/lanvent/plugin_replicate): 基于[Replicate](https://replicate.com/)的 API 画图。
 - [lanvent/plugin_sdwebui](https://github.com/lanvent/plugin_sdwebui): 基于 stable diffusion webui 的 api 画图。
@@ -63,6 +68,8 @@
 - [KimYx0207/CogView2Cow](https://github.com/KimYx0207/CogView2Cow)：基于智谱 API 的文生图、文生视频。
 - [wangxyd/nicecoze](https://github.com/wangxyd/nicecoze)：优化 coze 返回结果，主要是图片链接转图片。
 - [binllm18/cozewrapper](https://github.com/binllm18/cozewrapper)：基于 coze 的多模态封装插件，支持图片的重绘、微调等。
+- [single228758/doubao](https://github.com/single228758/doubao)：豆包生图，参考图编辑，区域重绘等
+- [single228758/jimeng](https://github.com/single228758/jimeng)：即梦 AI 生图
 - suno
 
 ## 娱乐
@@ -79,6 +86,7 @@
 - [xiaoqidaov2/game](https://github.com/xiaoqidaov2/game)：游戏娱乐插件，支持钓鱼，大富翁模式，经济系统，等级系统。
 - [Sakura7301/sakuraTools](https://github.com/Sakura7301/sakuraTools)：多功能聚合，包括获取舔狗日记、笑话、摸鱼日历、二次元图片、小姐姐视频、星座运势、虫部落热门帖子、疯狂星期四文案、以及赛博算卦等。
 - [Allenhufanfan/metaso](https://github.com/Allenhufanfan/metaso)：夸克资源搜索。
+- [sllt-wei/HotGirlsPlugin](https://github.com/sllt-wei/HotGirlsPlugin)：获取小姐姐视频或图片
 - [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
 
 ## 常见问题
