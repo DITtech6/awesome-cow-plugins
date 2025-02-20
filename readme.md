@@ -26,7 +26,7 @@
 ## 群管理
 
 - [lanvent/plugin_summary](https://github.com/lanvent/plugin_summary): 群聊天记录总结
-- [sineom-1/plugin_summary](https://github.com/sineom-1/plugin_summary)：群聊天记录总结
+  - [sineom-1/plugin_summary](https://github.com/sineom-1/plugin_summary)：群聊天记录总结
 - [dfldylan/GroupInvitation](https://github.com/dfldylan/GroupInvitation)：特定关键字拉群
 - [Tishon1532/bridge_room](https://github.com/Tishon1532/bridge_room): 多微信群桥接互通
 - [sineom-1/revocation](https://github.com/sineom-1/revocation): 私聊和群聊消息的防撤回
@@ -84,6 +84,7 @@
 - [qiupo/apitools](https://github.com/qiupo/apitools)：点歌及歌曲推荐。
 - [nautilis/plugin_music](https://github.com/nautilis/plugin_music)：基于网易云音乐的点歌，支持 gpt 推荐音乐。
 - [xiaoqidaov2/game](https://github.com/xiaoqidaov2/game)：游戏娱乐插件，支持钓鱼，大富翁模式，经济系统，等级系统。
+  - [Sakura7301/game](https://github.com/Sakura7301/game)：游戏系统重写版。
 - [Sakura7301/sakuraTools](https://github.com/Sakura7301/sakuraTools)：多功能聚合，包括获取舔狗日记、笑话、摸鱼日历、二次元图片、小姐姐视频、星座运势、虫部落热门帖子、疯狂星期四文案、以及赛博算卦等。
 - [Allenhufanfan/metaso](https://github.com/Allenhufanfan/metaso)：夸克资源搜索。
 - [sllt-wei/HotGirlsPlugin](https://github.com/sllt-wei/HotGirlsPlugin)：获取小姐姐视频或图片
