@@ -27,6 +27,7 @@
 
 - [lanvent/plugin_summary](https://github.com/lanvent/plugin_summary): 群聊天记录总结
   - [sineom-1/plugin_summary](https://github.com/sineom-1/plugin_summary)：群聊天记录总结
+  - [wclzq/group_chat_summary](https://github.com/wclzq/group_chat_summary)：适用于 DOW 的群聊总结
 - [dfldylan/GroupInvitation](https://github.com/dfldylan/GroupInvitation)：特定关键字拉群
 - [Tishon1532/bridge_room](https://github.com/Tishon1532/bridge_room): 多微信群桥接互通
 - [sineom-1/revocation](https://github.com/sineom-1/revocation): 私聊和群聊消息的防撤回
