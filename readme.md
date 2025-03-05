@@ -71,6 +71,7 @@
 - [binllm18/cozewrapper](https://github.com/binllm18/cozewrapper)：基于 coze 的多模态封装插件，支持图片的重绘、微调等。
 - [single228758/doubao](https://github.com/single228758/doubao)：豆包生图，参考图编辑，区域重绘等
 - [single228758/jimeng](https://github.com/single228758/jimeng)：即梦 AI 生图
+- [single228758/huanl](https://github.com/single228758/huanl)：图片换脸。
 - suno
 
 ## 娱乐
