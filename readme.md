@@ -72,6 +72,7 @@
 - [single228758/doubao](https://github.com/single228758/doubao)：豆包生图，参考图编辑，区域重绘等
 - [single228758/jimeng](https://github.com/single228758/jimeng)：即梦 AI 生图
 - [single228758/huanl](https://github.com/single228758/huanl)：图片换脸。
+- [single228758/tyhh](https://github.com/single228758/tyhh)：基于阿里云通义万相的绘画插件，支持多种创作模式和图片处理功能。
 - suno
 
 ## 娱乐
