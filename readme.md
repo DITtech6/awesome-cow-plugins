@@ -74,6 +74,7 @@
 - [single228758/huanl](https://github.com/single228758/huanl)：图片换脸。
 - [single228758/tyhh](https://github.com/single228758/tyhh)：基于阿里云通义万相的绘画插件，支持多种创作模式和图片处理功能。
 - [single228758/wenxb](https://github.com/single228758/wenxb)：问小白 r1，推理生图，识图功能。
+- [trader5555/Image2Video](https://github.com/trader5555/Image2Video)：基于可灵的图生视频插件。
 - suno
 
 ## 娱乐
