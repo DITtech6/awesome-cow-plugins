@@ -96,7 +96,7 @@
 - [Sakura7301/sakuraTools](https://github.com/Sakura7301/sakuraTools)：多功能聚合，包括获取舔狗日记、笑话、摸鱼日历、二次元图片、小姐姐视频、星座运势、虫部落热门帖子、疯狂星期四文案、以及赛博算卦等。
 - [Allenhufanfan/metaso](https://github.com/Allenhufanfan/metaso)：夸克资源搜索。
 - [sllt-wei/HotGirlsPlugin](https://github.com/sllt-wei/HotGirlsPlugin)：获取小姐姐视频或图片
-- 💀[WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
+- ~~[WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。~~
 - [flyhunterl/VoiceReply](https://github.com/flyhunterl/VoiceReply)：语音问答插件，通过发送"语音+问题"的形式获取 AI 的语音回答。
   - [flyhunterl/VoiceReplyFree](https://github.com/flyhunterl/VoiceReplyFree)：使用 Pollinations.ai 的语音服务来生成语音回复，无需配置 TTS 模型。
 
