@@ -48,8 +48,11 @@
 - [fatwang2/seek1assit](https://github.com/fatwang2/seek1assit): 基于[medisearch](https://search2ai.online/medisearch)(医疗大模型)的医疗咨询。
 - [AnCool-OvO/HighSpeedTicket](https://github.com/AnCool-OvO/HighSpeedTicket): 高铁（火车）票查询插件,可查询直达跟中转两种方式,查询后可发送+问题进行进一步的筛选。
 - [sllt-wei/TicketQuery](https://github.com/sllt-wei/TicketQuery)：高铁（火车）票查询,可查询直达跟中转两种方式。
+  - [sofs2005/TicketQuery](https://github.com/sofs2005/TicketQuery)
 - [sllt-wei/DataRetrieval](https://github.com/sllt-wei/DataRetrieval)：实时查询全网电影票房以及股票数据。
 - [fred2045/plugin_rss](https://github.com/fred2045/plugin_rss)：通过 RSS(RSSHub)订阅各平台大 V 的最新消息，推送到微信群或微信号。
+- [flyhunterl/EnglishAudio](https://github.com/flyhunterl/EnglishAudio)：发送模块编码获取对应音频文件并以语音方式发送(目前为英语音频)。
+- [flyhunterl/EnglishAudio](https://github.com/flyhunterl/WordQuery)：英语单词查询，包括详细解释和发音。
 
 ## AIGC
 
@@ -93,7 +96,9 @@
 - [Sakura7301/sakuraTools](https://github.com/Sakura7301/sakuraTools)：多功能聚合，包括获取舔狗日记、笑话、摸鱼日历、二次元图片、小姐姐视频、星座运势、虫部落热门帖子、疯狂星期四文案、以及赛博算卦等。
 - [Allenhufanfan/metaso](https://github.com/Allenhufanfan/metaso)：夸克资源搜索。
 - [sllt-wei/HotGirlsPlugin](https://github.com/sllt-wei/HotGirlsPlugin)：获取小姐姐视频或图片
-- [WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
+- 💀[WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。
+- [flyhunterl/VoiceReply](https://github.com/flyhunterl/VoiceReply)：语音问答插件，通过发送"语音+问题"的形式获取 AI 的语音回答。
+  - [flyhunterl/VoiceReplyFree](https://github.com/flyhunterl/VoiceReplyFree)：使用 Pollinations.ai 的语音服务来生成语音回复，无需配置 TTS 模型。
 
 ## 常见问题
 
