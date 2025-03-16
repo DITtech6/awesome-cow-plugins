@@ -50,9 +50,9 @@
 - [sllt-wei/TicketQuery](https://github.com/sllt-wei/TicketQuery)：高铁（火车）票查询,可查询直达跟中转两种方式。
   - [sofs2005/TicketQuery](https://github.com/sofs2005/TicketQuery)
 - [sllt-wei/DataRetrieval](https://github.com/sllt-wei/DataRetrieval)：实时查询全网电影票房以及股票数据。
-- [fred2045/plugin_rss](https://github.com/fred2045/plugin_rss)：通过 RSS(RSSHub)订阅各平台大 V 的最新消息，推送到微信群或微信号。
+- ~~[WoodGoose/plugin_rss](https://github.com/WoodGoose/plugin_rss)：通过 RSS(RSSHub)订阅各平台大 V 的最新消息，推送到微信群或微信号。~~
 - [flyhunterl/EnglishAudio](https://github.com/flyhunterl/EnglishAudio)：发送模块编码获取对应音频文件并以语音方式发送(目前为英语音频)。
-- [flyhunterl/EnglishAudio](https://github.com/flyhunterl/WordQuery)：英语单词查询，包括详细解释和发音。
+- [flyhunterl/WordQuery](https://github.com/flyhunterl/WordQuery)：英语单词查询，包括详细解释和发音。
 
 ## AIGC
 
@@ -99,6 +99,11 @@
 - ~~[WoodGoose/meme](https://github.com/WoodGoose/meme): 可玩性很高的单人、双人动态 meme 表情包生成。~~
 - [flyhunterl/VoiceReply](https://github.com/flyhunterl/VoiceReply)：语音问答插件，通过发送"语音+问题"的形式获取 AI 的语音回答。
   - [flyhunterl/VoiceReplyFree](https://github.com/flyhunterl/VoiceReplyFree)：使用 Pollinations.ai 的语音服务来生成语音回复，无需配置 TTS 模型。
+- [flyhunterl/womenvocie](https://github.com/flyhunterl/womenvocie)：获取并发送随机御姐语音。
+
+## misc
+
+- [flyhunterl/text2image](https://github.com/flyhunterl/text2image)：将 ChatGPT 长文本回复转换为图片的插件，支持简单的 Markdown 格式渲染。
 
 ## 常见问题
 
@@ -107,7 +112,7 @@
 ## 其他
 
 - 任何想法、建议、需求、咨询等，欢迎加微信 fred2025 交流
-- "CoW 插件交流群": 新插件及内测 demo 的第一手信息，与插件开发者交流，插件试玩，欢迎备注"cow 插件"入群。
+- "CoW&DoW 插件交流群": 新插件及内测 demo 的第一手信息，与插件开发者交流，插件试玩，欢迎备注"cow 插件"入群。
 
 ![微信二维码](images/qr.jpg)
 
