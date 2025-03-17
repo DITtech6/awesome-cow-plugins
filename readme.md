@@ -119,4 +119,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=fred2045/awesome-cow-plugins&type=Date)](https://star-history.com/#fred2045/awesome-cow-plugins&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=WoodGoose/awesome-cow-plugins&type=Date)](https://star-history.com/#WoodGoose/awesome-cow-plugins&Date)
