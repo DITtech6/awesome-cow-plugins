@@ -101,11 +101,11 @@
   - [flyhunterl/VoiceReplyFree](https://github.com/flyhunterl/VoiceReplyFree)：使用 Pollinations.ai 的语音服务来生成语音回复，无需配置 TTS 模型。
 - [flyhunterl/womenvocie](https://github.com/flyhunterl/womenvocie)：获取并发送随机御姐语音。
 - [Lingyuzhou111/Ximalaya](https://github.com/Lingyuzhou111/Ximalaya)：喜马拉雅音频搜索、播放列表获取和音频播放等。
-- [thekingcom666/card](https://github.com/thekingcom666/card)：卡片生成器插件，只需发送简单的命令，即可生成包含网站标题、描述和图标的精美网站分享卡片，点击卡片可直接访问对应网站。
 
 ## misc
 
 - [flyhunterl/text2image](https://github.com/flyhunterl/text2image)：将 ChatGPT 长文本回复转换为图片的插件，支持简单的 Markdown 格式渲染。
+- [thekingcom666/card](https://github.com/thekingcom666/card)：卡片生成器插件，只需发送简单的命令，即可生成包含网站标题、描述和图标的精美网站分享卡片，点击卡片可直接访问对应网站。
 
 ## 常见问题
 
