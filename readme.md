@@ -37,6 +37,7 @@
 - [theone-2more/plugin_apimap](https://github.com/theone-2more/plugin_apimap)：配置不同群使用不同的 openai_api_key。
 - [Penghuige/VerifyCode](https://github.com/Penghuige/VerifyCode)：通过邀请码验证的功能，限制用户使用。
 - [cm04918/KeywordMonitor](https://github.com/cm04918/KeywordMonitor)：群聊违规内容监控，包括关键词、URL 链接和文件内容
+- [wclzq/hello_plus](https://github.com/wclzq/hello_plus)：群聊欢迎、退群提醒等功能（原 hello 插件增加卡片欢迎）。
 
 ## 资讯工具
 
