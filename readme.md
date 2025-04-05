@@ -103,6 +103,7 @@
   - [flyhunterl/VoiceReplyFree](https://github.com/flyhunterl/VoiceReplyFree)：使用 Pollinations.ai 的语音服务来生成语音回复，无需配置 TTS 模型。
 - [flyhunterl/womenvocie](https://github.com/flyhunterl/womenvocie)：获取并发送随机御姐语音。
 - [Lingyuzhou111/Ximalaya](https://github.com/Lingyuzhou111/Ximalaya)：喜马拉雅音频搜索、播放列表获取和音频播放等。
+- [workholmes/BlackJack](https://github.com/workholmes/BlackJack)：BlackJack(21 点)游戏插件，支持多人同时游戏，具有玩家管理、筹码系统、排行榜等功能。
 
 ## misc
 
