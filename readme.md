@@ -104,6 +104,7 @@
 - [flyhunterl/womenvocie](https://github.com/flyhunterl/womenvocie)：获取并发送随机御姐语音。
 - [Lingyuzhou111/Ximalaya](https://github.com/Lingyuzhou111/Ximalaya)：喜马拉雅音频搜索、播放列表获取和音频播放等。
 - [workholmes/BlackJack](https://github.com/workholmes/BlackJack)：BlackJack(21 点)游戏插件，支持多人同时游戏，具有玩家管理、筹码系统、排行榜等功能。
+- [935620365/idiom_game](https://github.com/935620365/idiom_game)：成语猜猜乐是一个基于图片猜成语的趣味游戏插件，支持群聊和私聊场景。
 
 ## misc
 
