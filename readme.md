@@ -82,6 +82,7 @@
 - [single228758/wenxb](https://github.com/single228758/wenxb)：问小白 r1，推理生图，识图功能。
 - [trader5555/Image2Video](https://github.com/trader5555/Image2Video)：基于可灵的图生视频插件。
 - [sofs2005/GeminiImg](https://github.com/sofs2005/GeminiImg)：使用 Gemini 2.0 FlashExp 模型生成和编辑图片。
+- [single228758/hid](https://github.com/single228758/hid)：基于 HidreamAI 的图像生成。
 - suno
 
 ## 娱乐
