@@ -113,6 +113,7 @@
 - [flyhunterl/text2image](https://github.com/flyhunterl/text2image)：将 ChatGPT 长文本回复转换为图片的插件，支持简单的 Markdown 格式渲染。
 - [thekingcom666/card](https://github.com/thekingcom666/card)：卡片生成器插件，只需发送简单的命令，即可生成包含网站标题、描述和图标的精美网站分享卡片，点击卡片可直接访问对应网站。
 - [thekingcom666/file](https://github.com/thekingcom666/file)：文件发送插件，文件管理和传输工具，支持多种常见文件格式，包括文档、图片、音频、视频等。
+- [flyhunterl/donotlazy](https://github.com/flyhunterl/donotlazy)：用于记录群聊中学生的已读情况，适用于班级通知的发布和阅读情况追踪。
 
 ## 常见问题
 
