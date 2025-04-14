@@ -22,6 +22,7 @@
 - [ayasa520/TaskScheduler](https://github.com/ayasa520/TaskScheduler)：基于 APScheduler 库，提供了灵活的任务管理和调度功能。
 - [Sakura7301/SimpleTimeTask](https://github.com/Sakura7301/SimpleTimeTask)：任务定时器。
 - [Isaac20231231/send_msg](https://github.com/Isaac20231231/send_msg): 实现手动执行 api(基于 flask 的本地 http api)或微信命令发送消息通知到微信功能。
+- [zxerai/Server_Status](https://github.com/zxerai/Server_Status)：查看服务器的运行状态信息，包括系统信息、硬件资源使用情况和程序信息。
 
 ## 群管理
 
