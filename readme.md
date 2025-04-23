@@ -43,6 +43,7 @@
 ## 资讯工具
 
 - [fatwang2/sum4all](https://github.com/fatwang2/sum4all): 网页、文件、视频、播客、图片大模型总结，支持联网搜索及多轮追问。
+  - [vmxmy/sum4all](https://github.com/vmxmy/sum4all)：增强版，移除 sum4all 的 api 依赖、支持更多大模型、优化公众号总结。
 - [hanfangyuan4396/jina_sum](https://github.com/hanfangyuan4396/jina_sum): 基于 jina reader 和 gpt 总结网页内容，支持公众号、小红书、知乎等分享卡片链接。
   - [sofs2005/jina_sum](https://github.com/sofs2005/jina_sum)
 - [6vision/Apilot](https://github.com/6vision/Apilot)：基于[ALAPI](https://admin.alapi.cn/account/center)及[韩小韩 API](https://api.vvhan.com/)接口，包含早报、摸鱼（视频）日历、明星八卦、查快递、星座运势及多平台热榜。
