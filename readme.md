@@ -29,11 +29,12 @@
 - [lanvent/plugin_summary](https://github.com/lanvent/plugin_summary): 群聊天记录总结
   - [sineom-1/plugin_summary](https://github.com/sineom-1/plugin_summary)：群聊天记录总结
   - [wclzq/group_chat_summary](https://github.com/wclzq/group_chat_summary)：适用于 DOW 的群聊总结
+- [Lingyuzhou111/ChatSummary](https://github.com/Lingyuzhou111/ChatSummary)：聊天记录总结助手，用于自动记录、总结和可视化群聊或私聊的对话内容。
 - [dfldylan/GroupInvitation](https://github.com/dfldylan/GroupInvitation)：特定关键字拉群
 - [Tishon1532/bridge_room](https://github.com/Tishon1532/bridge_room): 多微信群桥接互通
 - [sineom-1/revocation](https://github.com/sineom-1/revocation): 私聊和群聊消息的防撤回
 - [xiaoqidaov2/MemberMonitor](https://github.com/xiaoqidaov2/MemberMonitor)：群成员监控插件，支持退群提醒
-- [dividduang/blackroom](https://github.com/dividduang/blackroom): 小黑屋
+- ~~[dividduang/blackroom](https://github.com/dividduang/blackroom): 小黑屋~~
 - [Sakura7301/DarkRoom](https://github.com/Sakura7301/DarkRoom): 小黑屋
 - [theone-2more/plugin_apimap](https://github.com/theone-2more/plugin_apimap)：配置不同群使用不同的 openai_api_key。
 - [Penghuige/VerifyCode](https://github.com/Penghuige/VerifyCode)：通过邀请码验证的功能，限制用户使用。
@@ -85,6 +86,7 @@
 - [trader5555/Image2Video](https://github.com/trader5555/Image2Video)：基于可灵的图生视频插件。
 - [sofs2005/GeminiImg](https://github.com/sofs2005/GeminiImg)：使用 Gemini 2.0 FlashExp 模型生成和编辑图片。
 - [single228758/hid](https://github.com/single228758/hid)：基于 HidreamAI 的图像生成。
+- [single228758/yuewen](https://github.com/single228758/yuewen)：跃问 AI 助手，支持文本对话、模型管理、图片识别、视频生成及对话分享等功能。
 - suno
 
 ## 娱乐
